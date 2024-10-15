@@ -1,0 +1,33 @@
+What is cloud computing ? 
+	$  cloud computing is the delivery of computing services over the Internet, offering faster innovation, flexible resources, and economies of scale.
+what is on premises ?
+	$ On premises is a group of servers which you own privately and control it.
+	$ It allow you to gain full control of your infrastructure.
+	$ On whole it is a private cloud.
+	$ All work is done by us.
+Types of cloud computing:-
+1)Private cloud:
+	$ Private clouds are owned and operated by third-party cloud service providers, which deliver computing resources like servers and storage over the internet. All hardware, software, and other supporting infrastructure is owned and managed by the cloud provider. You access these services and manage your account using a web browser. 
+2)Private cloud:
+	$ Private cloud resources used exclusively by a single business or organization.A private cloud is one in which the services and infrastructure are maintained on a private network.
+3)Hybrid cloud:
+	$ Hybrid clouds combine public and private clouds, bound together by technology that allows data and applications to be shared between them. By allowing data and applications to move between private and public clouds, a hybrid cloud gives your business greater flexibility and more deployment options and helps optimize your existing infrastructure, security, and compliance. 
+Types of Cloud services :-
+1) Infrastructure as a service(IAAS):
+	$ IAAS is a service that offers essential compute, storage, and networking resources on demand, on a pay-as-you-go basis.
+	$ IAAS cloud providers contains in-build services like compute, networking and storage.
+	$ The other services like  data access, application, runtime, operating system and  virtual machine were handled by the user.
+2)Platform as a service(PAAS):
+	$ PAAS is a complete development and deployment environment in the cloud, with resources that enable you to deliver everything from simple cloud-based apps to sophisticated, cloud-enabled enterprise applications. 
+	$ PAAS cloud providers contains in-build services like  runtime, operating system, virtual machine, compute and networking.
+	$ The other services like data access and application are handled by the user.
+3)Software as a service(SAAS):
+	$ SAAS allows users to connect to and use cloud-based apps over the Internet. 
+	$ SAAS cloud providers contains in-build services like  runtime, operating system, virtual machine, compute, networking and application.
+	$ data access is the only service that user can handle. 
+Benefits of cloud computing:-
+	$ scalability
+	$ reliability
+	$ cost 
+	$ productivity
+	$ security
